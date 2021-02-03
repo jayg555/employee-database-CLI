@@ -1,0 +1,18 @@
+{
+  "name": "employee-cli",
+  "version": "1.0.0",
+  "description": "A CLI for entering employee information into database",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Gamboa",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "inquirer": "^4.0.0",
+    "mongoose": "^4.13.2"
+  }
+}
