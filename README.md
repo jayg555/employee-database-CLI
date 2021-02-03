@@ -8,7 +8,7 @@ This is a command line interface for storing employees into a local database usi
 ## **Finding by employee name**
 ![](./assets/find_by_name.gif)
 
-## **Finding and employee and updating by Id**
+## **Finding an employee and updating by Id**
 ![](./assets/find_update.gif)
 
 ## **Lisiting all employees and removing by Id**
